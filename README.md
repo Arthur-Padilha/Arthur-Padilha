@@ -10,7 +10,6 @@ I’m Arthur, a Full Stack developer starting my journey in the technology field
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
-<h2>Github Stats</h2>
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Padilha)](https://github.com/anuraghazra/github-readme-stats)
 
