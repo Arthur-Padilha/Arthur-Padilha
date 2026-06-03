@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Arthur, a Full Stack developer starting my journey in the technology field, focused on building responsive projects with modern interfaces and well-organized code, using all of my analytical and logical thinking to solve problems and create strategies within programming.
+I’m Arthur, a Front-End developer starting my journey in the technology field, focused on building responsive projects with modern interfaces and well-organized code, using all of my analytical and logical thinking to solve problems and create strategies within programming.
 <br>
 <br>
 
